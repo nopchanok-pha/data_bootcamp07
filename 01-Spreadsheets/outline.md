@@ -1,8 +1,8 @@
-**# Data science bootcamp with DataRockie**
+ Data science bootcamp with DataRockie
 -----------------------------------------
 ## Sprints Spreadsheets
 
-### Google Sheets 101
+### Google Sheets 101: [101 File](https://docs.google.com/spreadsheets/d/19nWpB0dW2aSZnzpgjkuGQR1lAty0bb-TywQbBHaLAZk/edit?usp=share_link)
 - Why Google Sheets
 - Manually Input Data
 - Cell Reference
@@ -13,9 +13,8 @@
 - SWITCH
 - AVERAGE SUM MEDIAN
 - AVERAGEIF SUMIF
-- Google Sheets 101 File
 
-### Google Sheets 102
+### Google Sheets 102: [102 File](https://docs.google.com/spreadsheets/d/1VVKfaVhYiXZF-pbs4lgTQDosy-xMjAkB2QgVoCK0PNs/edit?usp=share_link)
 - Import Data
 - Countifs
 - Sumifs
@@ -26,9 +25,8 @@
 - Index Match
 - Date
 - DATEDIF
-- Google Sheets 102 File
 
-### Google Sheets 103
+### Google Sheets 103: [103 File](https://docs.google.com/spreadsheets/d/14yDBeqYLWevgJl2LQAdMEj9o9r0uG7L4voZEtbx2nWw/edit?usp=share_link)
 - Query Function
 - Select Data
 - Filter Data
@@ -39,15 +37,13 @@
 - Pivot
 - Order By
 - Dynamic Query
-- Google Sheets 103 File
 
-### Google Sheets 104
+### Google Sheets 104: [104 File](https://docs.google.com/spreadsheets/d/1E4htk7HtXobnQZaLifKyFUXmJhMK8kyoSfiEGJwuVyY/edit?usp=share_link)
 - Where is Pivot Table in GG Sheets
 - Intro to Pivot Table
 - You are now ready
-- Google Sheets 104 File
 
-### Spreadsheets is Awesome
+### Spreadsheets: [Spreadsheets File](https://docs.google.com/spreadsheets/d/1elNXNP2KBY4P7ggO9R891nGrju4NGFuUlgOsqKCWToM/edit?usp=share_link)
 - Data Entry
 - Array Formula
 - Import Data
@@ -68,4 +64,3 @@
 - Project Simple App
 - Sparkline Basics
 - Google Translate
-- Spreadsheets is Awesome File
